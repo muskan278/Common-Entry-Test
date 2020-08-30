@@ -3,7 +3,7 @@
 <br>
 <p align="center">
   <a href="#">
-    <img src="assets/img/logo.png" alt="Logo" width="80" height="80">
+    <img src="Readme_assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Common Entry Test</h3>
@@ -15,7 +15,7 @@
     <a href="https://codechefvit.github.io/Common-Entry-Test/index.html"><strong>Give a try</strong></a>
     <br>
     <br>
-    <a href="https://github.com/CodeChefVIT/Common-Entry-Test">View Docs </a>
+    <a href="https://documenter.getpostman.com/view/10696212/T1LTg5PH?version=latest">View Docs </a>
     ··
     <a href="https://youtu.be/edT0Mvr2VnU">Demo Video</a>
     ··
@@ -31,11 +31,11 @@
 ## About The Project
 
 <p align="center"> 
-    <img src="assets/img/ss1.png"  width="1000">
+    <img src="Readme_assets/ss1.png"  width="1000">
 </p>
 <br><br>
 <p align="center"> 
-    <img src="assets/img/ss2.png"  width="1000">
+    <img src="Readme_assets/ss2.png"  width="1000">
 </p>
 
 ### What is Common Entry Test ?
@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 1) Rakshit Maggon
 2) Muskan Agarwal 
 3) Nishchay Jain
-4) Shantanu Gupta
+4) Deepankar Jain
 
 
 
